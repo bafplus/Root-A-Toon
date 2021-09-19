@@ -2,7 +2,7 @@
 Software for rooting a (dutch/belgian) Toon/Boxx using software and a wifi hotspot only.
 
 ## What do I need?
-First you need to setup a Linux/Pi machine as a routed wifi hotspot, see for example https://www.raspberrypi.org/documentation/configuration/wireless/access-point-routed.md
+First you need to setup a Linux/Pi machine as a routed wifi hotspot, see for example https://www.raspberrypi.org/documentation/computers/configuration.html#setting-up-a-routed-wireless-access-point
 You goal must be that you can connect your Toon to the routed wifi hotspot and have internet on the Toon. The reason for this is that the script will need to intercept Toon internet traffic.
 
 The script is tested on Raspbian Buster so you better have that installed or be prepared to modify the script a bit.
